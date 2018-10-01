@@ -1,1 +1,2 @@
 Hi this is my first line in first line in master
+new line in b2
