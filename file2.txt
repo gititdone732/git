@@ -1,2 +1,3 @@
 file2.txt in base
 new line in b1_1_b1
+new line in b1_1_b2

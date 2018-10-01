@@ -1,3 +1,4 @@
 Hi this is my first line in first line in master
 new line in b1.txt
 new line in b2------>modified
+new line in b2*************>modified
